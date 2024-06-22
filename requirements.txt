@@ -1,6 +1,2 @@
-asgiref
 Django
-djangorestframework
-sqlparse
-tzdata
 whitenoise
